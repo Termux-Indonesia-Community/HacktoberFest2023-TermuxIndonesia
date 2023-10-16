@@ -25,7 +25,7 @@ All Contributor <br>
 - fork this repository
 - clone
 ```zsh
-git clone https://github.com/ryugenxd/HacktoberFest2023.git
+git clone https://github.com/Termux-Indonesia-Community/HacktoberFest2023-TermuxIndonesia.git
 ```
 - create new branch
 ```zsh
